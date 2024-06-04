@@ -82,7 +82,7 @@
                     <a class="nav-link" href="thirumaladeepam.html"><i class="fa fa-circle nav-dot"></i> Thirumalai Deepam Oil</a>
                 </li>
                 <li class="nav-item px-2 active">
-                    <a class="nav-link" href="contact.php"><i class="fa fa-circle nav-dot"></i> Contact Us</a>
+                    <a class="nav-link" href="contact.html"><i class="fa fa-circle nav-dot"></i> Contact Us</a>
                 </li>
             </ul>
             <div class="text-center mb-lg-0 mb-5">
@@ -185,7 +185,7 @@
     <div class="container py-2">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <div class="black medium smallfnt">Copyrights &copy; 2024 Sasta Agro Products. All Rights Reserved. </div>
+                <div class="black medium smallfnt">Copyrights &copy; 2024 Sastha Agro Products. All Rights Reserved. </div>
             </div>
         </div>
     </div>
